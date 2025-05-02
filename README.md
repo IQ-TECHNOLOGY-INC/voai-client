@@ -13,12 +13,6 @@
 ---
 ## 安裝
 
-
-### 從程式庫安裝
-```
-pip install -e .
-```
-
 ### 從 pypi 安裝
 ```bash
 pip install voai-client
